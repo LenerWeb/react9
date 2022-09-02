@@ -20,7 +20,7 @@ const Footer = () => {
                 <li>Blog</li>
             </ul>
         </ul>
-        <h1>Este es mi componente en Footer</h1>
+        {/* <h1>Este es mi componente en Footer</h1> */}
     </div>
         
     )

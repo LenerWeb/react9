@@ -5,13 +5,13 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Header from './Header';
 import Footer from './Footer';
-import PrimerComponente from './AppEjemplo';
+/* import PrimerComponente from './AppEjemplo'; */
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Header/>
-    <PrimerComponente/>
+    {/* <PrimerComponente/> */}
     <App/>
     <Footer/>
   </React.StrictMode>

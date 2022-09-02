@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://sites.google.com/a/educacion.navarra.es/patricia-gayarre/_/rsrc/1487796186017/home/Nombres-para-perros.jpg"
           target="_blank"
           rel="noopener noreferrer"
         >
