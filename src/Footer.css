@@ -1,0 +1,14 @@
+.Footer-info{
+    display:flex;
+    justify-content: space-around;
+    padding: 0;
+    margin: 10px;
+    width: 100vw;
+
+}
+
+.Footer-list{
+    display: block;
+}
+
+

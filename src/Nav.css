@@ -1,0 +1,25 @@
+
+.header{
+    background-color: darkcyan;
+    color: white;
+}
+
+ul{
+    display: inline-flex;
+    gap: 30px;
+    list-style: none;
+    cursor: pointer;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    font-size:large;
+    padding: 0rem 2rem;
+}
+
+.logo1{
+    margin: 8px;
+    height: 30px;
+    
+}
